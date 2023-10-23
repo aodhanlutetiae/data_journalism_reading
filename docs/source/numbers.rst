@@ -64,7 +64,7 @@ Kahneman, Daniel. *Thinking, Fast and Slow*. Penguin, 2011. `Library resource <h
 
 `Kaplan, Daniel. Statistical Modelling. 2017 <https://dtkaplan.github.io/SM2-bookdown>`_
 
-`Lanchester, John. "Get a rabbit", *London Review of Books*, p. 3-8. 45/18, 2023 <https://www.lrb.co.uk/the-paper/v45/n18/john-lanchester/get-a-rabbit>`_
+`Lanchester, John. "Get a rabbit", London Review of Books, 45/18, 2023, p. 3-8 <https://www.lrb.co.uk/the-paper/v45/n18/john-lanchester/get-a-rabbit>`_
 
 `Lievesley, Denise. A guide to statistics for journalists. Reuters Institute, 2020. 1h
 Video <https://www.youtube.com/watch?v=_qioPxHuk0U>`_
