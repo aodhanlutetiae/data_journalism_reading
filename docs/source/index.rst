@@ -30,4 +30,16 @@ Contents
    census
    covid
    digisec
+   ethics
+   foi
+   journalism
+   legal
+   mapping
+   ml
+   network
+   numbers
+   osint
+   scraping
+   storytelling
+   viz
 
