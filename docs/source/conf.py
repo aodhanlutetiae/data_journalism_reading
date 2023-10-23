@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'data jouranlism reading'
+project = 'data journalism reading'
 copyright = "2023, Aidan O'Donnell"
 author = '@aodhanlutetiae'
 
