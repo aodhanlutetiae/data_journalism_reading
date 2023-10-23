@@ -6,10 +6,6 @@ This is the reading list for data journalism and computational journalism classe
 students. Some references have a link to the Cardiff University library that is only available
 to registered students but most of the works below are online and the others are generally available from book dealers.
 
-Basics
-======
-
-`Bounegru, Liliana & Gray, Jonathan. The data journalism handbook: towards a critical data practice. Amsterdam University Press, 2021 <https://library.oapen.org/bitstream/handle/20.500.12657/47509/9789048542079.pdf>`_
 
 .. **Lumache** (/lu'make/) is a Python library for DATA JOURNALISTS!!!
 .. that creates recipes mixing random ingredients.
@@ -30,3 +26,10 @@ Contents
 
    usage
    api
+   basics
+
+
+Census 2021
+===========
+
+`BBC. Census to provide snapshot of life during pandemic. March 2021 <https://www.bbc.co.uk/news/uk-56458568>`_
