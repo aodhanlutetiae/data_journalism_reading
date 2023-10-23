@@ -1,5 +1,5 @@
-Welcome to Lumache's documentation!
-===================================
+Data Journalism Reading List
+============================
 
 This is the reading list for data journalism and computational journalism classes at
 `Jomec <https://www.cardiff.ac.uk/journalism-media-and-culture>`_ (Cardiff University) for undergraduate and postgraduate journalism
@@ -24,8 +24,6 @@ Contents
 
 .. toctree::
 
-   usage
-   api
    basics
    census
    covid
