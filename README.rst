@@ -1,9 +1,5 @@
-Template for the Read the Docs tutorial
-=======================================
+Data Journalism Reading List
+============================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+This is the reading list for data journalism and computational journalism classes at
+`Jomec <https://www.cardiff.ac.uk/journalism-media-and-culture>`_ (Cardiff University) for undergraduate and postgraduate journalism students. Some references have a link to the Cardiff University library that is only available to registered students but most of the works are online and the others are generally available from book dealers.
