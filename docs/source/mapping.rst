@@ -55,7 +55,7 @@ Graser, Anita & Peterson, Gretchen. *QGIS map design*. Locate Press, 2018
 
 `Lambrechts, Maarten. The essential lies in news maps. 2019.  <https://datajournalism.com/read/longreads/the-essential-lies-in-news-maps>`_
 
-`Manson, Stephen. Mapping, society & technology. University of Minnesota, 2017. <https://open.lib.umn.edu/mapping/> `_
+`Manson, Stephen. Mapping, society & technology. University of Minnesota, 2017. <https://open.lib.umn.edu/mapping/>`_
 
 `Mapschool. A free introduction to GEO <https://mapschool.io/>`_
 
