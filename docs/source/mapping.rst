@@ -50,7 +50,7 @@ Graser, Anita & Peterson, Gretchen. *QGIS map design*. Locate Press, 2018
 
 `House of Commons. MSOA names. <https://houseofcommonslibrary.github.io/msoanames/>`_
 
-`Knight Center. Online course: Intro to mapping for journalists.
+`Knight Center. Online course: Intro to mapping for journalists (QGIS).
 2018 <https://journalismcourses.org/course/intro-to-mapping-and-gis-for-journalists/>`_
 
 `Lambrechts, Maarten. The essential lies in news maps. 2019.  <https://datajournalism.com/read/longreads/the-essential-lies-in-news-maps>`_
