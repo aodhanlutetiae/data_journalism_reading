@@ -57,4 +57,6 @@ Rukmini, S. *Whole numbers and half truths: what data can and cannot tell us abo
 
 `SPJ. Data tools & tipsheets <https://www.journaliststoolbox.org/2021/06/05/data-tools-tipsheets-and-research/>`_ [Overpowering list but worth browsing]
 
+Sturge, Georgina. *Bad Data: how government, politicians and the rest of us get misled by numbers*. Bridge Street Press, 2022.
+
 Tong, Jingrong. Data Journalism. *Journalism in the data age*. Sage, 2022, p. 59-88.

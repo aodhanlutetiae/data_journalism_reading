@@ -15,7 +15,7 @@ Amin, Lucas & Montague, Brendan. *EIRs without the lawyer: the journalist's guid
 `Basnett, Guy & McNamara, Paul. FOI at ten. How all journalists can use
 the freedom of information act to find great exclusives. Press
 Gazette.
-2015 <https://www.pressgazette.co.uk/foi-10-how-all-journalists-can-use-freedom-information-act-find-great-exclusives/>`_
+2015 <https://pressgazette.co.uk/media_law/foi-10-how-all-journalists-can-use-freedom-information-act-find-great-exclusives/>`_
 
 `BBC & Miller, Charles. Five ways to stop your FOI request being rejected.
 2015 <https://www.bbc.co.uk/blogs/collegeofjournalism/entries/babd8f3c-934f-4b5b-b37a-d5b06cdac69a>`_

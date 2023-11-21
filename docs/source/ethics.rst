@@ -17,7 +17,7 @@ Journalistic Best Practices as Effect. *Journal of Mass Media Ethics*.
 
 `Craig et al., To Post or Not to Post: Online Discussion of Gun Permit
 Mapping and the Development of Ethical Standards in Data Journalism.
-*Journalism & Mass Communication Quarterly*,
+Journalism & Mass Communication Quarterly,
 January 2017 <https://www.researchgate.net/publication/312187007_To_Post_or_Not_to_Post_Online_Discussion_of_Gun_Permit_Mapping_and_the_Development_of_Ethical_Standards_in_Data_Journalism>`_
 
 `Craig et al. Ethical questions in data journalism and the power of
@@ -31,9 +31,6 @@ Criado-Perez, Caroline. *Invisible women: data bias in a world designed for men*
 `Diakopoulos, Nick. The ethics of predictive journalism. CJR, 2020 <https://www.cjr.org/tow_center/predictive-journalism-artificial-intelligence-ethics.php>`_
 
 `Harris, Jacob. Connecting with the dots <https://source.opennews.org/articles/connecting-dots/>`_
-
-Heydt, Michael. Scraping. Code of conduct. *Python web scraping
-cookbook*, Packt, 2018. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51156094260002420>`_
 
 `Knight Center. Ethics and equity in data journalism. Online course.
 2020 <https://www.journalismcourses.org/course/equity-ethics-in-data-journalism-hands-on-approaches-to-getting-your-data-right-2/>`_

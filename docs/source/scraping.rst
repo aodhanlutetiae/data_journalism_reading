@@ -17,8 +17,8 @@ Law, Technology & Arts*. 13/3, 2018, p. 275.
 
 `Harlow, Max. Fetch and enrich data with APIs. <https://github.com/maxharlow/tutorials/tree/master/fetch-and-enrich-data-with-apis>`_
 
-Heydt, Michael. *Python web scraping cookbook*. Packt, 2018
-`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_safari_books_9781787285217>`_
+Heydt, Michael. Scraping. Code of conduct. *Python web scraping
+cookbook*, Packt, 2018. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51156094260002420>`_
 
 Jarmul, Katherine & Lawson, Richard. *Python web scraping: fetching data
 from the web*. Packt, 2nd ed., 2017
@@ -52,6 +52,7 @@ and Abuse Act. Boston University Journal of Science & Technology Law.
 
 `Shiab, Nael. On the ethics of web scraping. GIJN,
 2015 <https://gijn.org/2015/08/12/on-the-ethics-of-web-scraping-and-data-journalism/>`_
+
 `Shiab, Nael, Web scraping. A journalist’s guide, GIJN,
 2015 <https://gijn.org/2015/08/11/web-scraping-a-journalists-guide/>`_
 

@@ -37,6 +37,8 @@ repository <https://docs.github.com/en/free-pro-team@latest/github/creating-clon
 `ICO. Data protection and journalism. A quick guide.
 2018 <https://ico.org.uk/media/for-organisations/documents/1547/data-protection-and-journalism-quick-guide.pdf>`_
 
+`ICO. Guide to Privacy and Electronic Communications Regulations. <https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/guide-to-pecr/>`_
+
 `IPSO. Decision 03350-16 InFacts v The Sun.
 2016 <https://www.ipso.co.uk/rulings-and-resolution-statements/ruling/?id=03350-16>`_
 
