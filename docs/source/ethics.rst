@@ -5,7 +5,7 @@ Ethics
 
 `Alsudais, Abdulkareem. Incorrect Data in the Widely Used Inside Airbnb Dataset. 2020 <https://arxiv.org/abs/2007.03019>`_
 
-`Belmont Report (US govt) <https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html>`_
+.. `Belmont Report (US govt) <https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html>`_
 
 `Cabreros, Irineo. Side-stepping safeguards, data journalists are doing science now. Undark. 2021 <https://undark.org/2021/04/22/data-journalists-are-doing-science/>`_
 
@@ -14,11 +14,6 @@ Ethics
 Christian, Sue Ellen. Cognitive Biases and Errors as Cause — and
 Journalistic Best Practices as Effect. *Journal of Mass Media Ethics*.
 28:3, 2013. p. 160-74. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_crossref_primary_10_1080_08900523_2013_794674>`_
-
-`Craig et al., To Post or Not to Post: Online Discussion of Gun Permit
-Mapping and the Development of Ethical Standards in Data Journalism.
-Journalism & Mass Communication Quarterly,
-January 2017 <https://www.researchgate.net/publication/312187007_To_Post_or_Not_to_Post_Online_Discussion_of_Gun_Permit_Mapping_and_the_Development_of_Ethical_Standards_in_Data_Journalism>`_
 
 `Craig et al. Ethical questions in data journalism and the power of
 online discussion.
@@ -44,10 +39,6 @@ of Journalism*. Columbia University Press, 2020.
 
 `Open Data Institute. Assessing risk when sharing data: a guide. Feb 2022 <https://theodi.org/article/assessing-risk-when-sharing-data-a-guide/>`_
 
-`Reuters. Microsoft's LinkedIn loses appeal over access to user
-profiles, Sept
-2019 <https://www.reuters.com/article/us-microsoft-linkedin-profiles/microsofts-linkedin-loses-appeal-over-access-to-user-profiles-idUSKCN1VU21W>`_
-
 Rogers, Richard. The API and the ethics turn. *Doing Digital Methods*.
 Sage, 2019, p. 206-09
 
@@ -56,6 +47,8 @@ claims. Wired,
 2009 <https://www.wired.com/2009/12/netflix-privacy-lawsuit/>`_
 
 `Tameez, Hanaa. What type of local news stories should be automated?, Nielman Lab, 2022 <https://www.niemanlab.org/2022/11/what-types-of-local-news-stories-should-be-automated-the-toronto-star-is-figuring-it-out/>`_
+
+`Thomson Reuters. The ethical data journalist (course) <https://thomsonfoundation.edcastcloud.com/learn/the-ethical-data-journalist-self-paced>`_
 
 `UK Statistics Authority. Ethical considerations in the use of geospatial data. May 2021 [includes checklist] <https://uksa.statisticsauthority.gov.uk/publication/ethical-considerations-in-the-use-of-geospatial-data-for-research-and-statistics/>`_
 
