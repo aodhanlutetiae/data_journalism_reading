@@ -47,15 +47,14 @@ Snowden’s Permanent Record. London Review of Books. 41/18, Sept 2019 <https://
 
 Murray, Andrew. *Information technology law: the law and society*. 4th ed., OUP, 2019. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/3go6c4/44CAR_ALMA51176279860002420>`_
 
-`Pinto, Timothy. The rise of GDPR in media law. <https://www.taylorwessing.com/interface/2019/privacy-theres-more-to-it-than-gdpr/the-rise-of-gdpr-in-media-law>`_
+`Pinto, Timothy. The rise of GDPR in media law. Taylor Wessing. 2019 <https://www.taylorwessing.com/interface/2019/privacy-theres-more-to-it-than-gdpr/the-rise-of-gdpr-in-media-law>`_
 
-`Pounder, Chris. DPDI No 2 Bill undermines transparency of Artificial Intelligence development and training. Oct 2023 <https://amberhawk.typepad.com/amberhawk/2023/10/dpdi-no-2-bill-undermines-transparency-of-artificial-intelligence-development-and-training.html>`_
+`Pounder, Chris. DPDI No 2 Bill undermines transparency of Artificial Intelligence development and training. 2023 <https://amberhawk.typepad.com/amberhawk/2023/10/dpdi-no-2-bill-undermines-transparency-of-artificial-intelligence-development-and-training.html>`_
 
 `Reuters. Microsoft's LinkedIn loses appeal over access to user
-profiles, Sept
-2019 <https://www.reuters.com/article/us-microsoft-linkedin-profiles/microsofts-linkedin-loses-appeal-over-access-to-user-profiles-idUSKCN1VU21W>`_
+profiles, 2019 <https://www.reuters.com/article/us-microsoft-linkedin-profiles/microsofts-linkedin-loses-appeal-over-access-to-user-profiles-idUSKCN1VU21W>`_
 
 Roussev, L. 'The DPDI No.2 Bill - GDPR Revamp or Rule Tinkering?', *European data protection law review*, 2023, 9/2, p.231-238 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/b7291a/cdi_crossref_primary_10_21552_edpl_2023_2_20>`_
 
-`Terziu & Yates. Data protection claims in media law cases: where are we now? Jan 2022 <https://www.taylorwessing.com/en/global-data-hub/2022/february---data-protection-freedom-of-expression-journalism-and-the-media/data-protection-claims-in-media-law-cases---where-are-we-now>`_
+`Terziu & Yates. Data protection claims in media law cases: where are we now? Taylor Wessing, 2022 <https://www.taylorwessing.com/en/global-data-hub/2022/february---data-protection-freedom-of-expression-journalism-and-the-media/data-protection-claims-in-media-law-cases---where-are-we-now>`_
 

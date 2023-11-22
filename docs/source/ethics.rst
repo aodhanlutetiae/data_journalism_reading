@@ -25,7 +25,7 @@ Criado-Perez, Caroline. *Invisible women: data bias in a world designed for men*
 
 `Diakopoulos, Nick. The ethics of predictive journalism. CJR, 2020 <https://www.cjr.org/tow_center/predictive-journalism-artificial-intelligence-ethics.php>`_
 
-`Harris, Jacob. Connecting with the dots <https://source.opennews.org/articles/connecting-dots/>`_
+`Harris, Jacob. Connecting with the dots. Open News. 2015 <https://source.opennews.org/articles/connecting-dots/>`_
 
 `Knight Center. Ethics and equity in data journalism. Online course.
 2020 <https://www.journalismcourses.org/course/equity-ethics-in-data-journalism-hands-on-approaches-to-getting-your-data-right-2/>`_
@@ -46,7 +46,7 @@ Sage, 2019, p. 206-09
 claims. Wired,
 2009 <https://www.wired.com/2009/12/netflix-privacy-lawsuit/>`_
 
-`Tameez, Hanaa. What type of local news stories should be automated?, Nielman Lab, 2022 <https://www.niemanlab.org/2022/11/what-types-of-local-news-stories-should-be-automated-the-toronto-star-is-figuring-it-out/>`_
+`Tameez, Hanaa. What type of local news stories should be automated? Nielman Lab, 2022 <https://www.niemanlab.org/2022/11/what-types-of-local-news-stories-should-be-automated-the-toronto-star-is-figuring-it-out/>`_
 
 `Thomson Reuters. The ethical data journalist (course) <https://thomsonfoundation.edcastcloud.com/learn/the-ethical-data-journalist-self-paced>`_
 
