@@ -34,8 +34,7 @@ repository <https://docs.github.com/en/free-pro-team@latest/github/creating-clon
 
 `Glanville, Jo. The journalistic exemption (Data Protection Act). LRB. 2018 <https://www.lrb.co.uk/the-paper/v40/n13/jo-glanville/the-journalistic-exemption>`_
 
-`ICO. Data protection and journalism. A quick guide.
-2018 <https://ico.org.uk/media/for-organisations/documents/1547/data-protection-and-journalism-quick-guide.pdf>`_
+`ICO. Data protection and journalism. Code of practice. [Submitted to govt July 2023] <https://ico.org.uk/media/for-organisations/documents/4025760/data-protection-and-journalism-code-202307.pdf>`_
 
 `ICO. Guide to Privacy and Electronic Communications Regulations. <https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/guide-to-pecr/>`_
 
