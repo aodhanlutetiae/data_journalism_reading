@@ -17,7 +17,7 @@ with `code <https://github.com/BuzzFeedNews/2017-08-spy-plane-finder>`_
 
 `Cheung, Paul. Journalism’s superfood: AI? Knight Foundation. 2019 <https://knightfoundation.org/articles/journalisms-superfood-ai/>`_
 
-`Clarke, Sean et al. How AI chatbots like ChatGPT or Bard work: visual explainer <https://www.theguardian.com/technology/ng-interactive/2023/nov/01/how-ai-chatbots-like-chatgpt-or-bard-work-visual-explainer>`_ 
+`Clarke, Sean et al. How AI chatbots like ChatGPT or Bard work: visual explainer. Guardian, 2023 <https://www.theguardian.com/technology/ng-interactive/2023/nov/01/how-ai-chatbots-like-chatgpt-or-bard-work-visual-explainer>`_ 
 
 `DataFlair. Detecting fake news with python
 <https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/>`_
