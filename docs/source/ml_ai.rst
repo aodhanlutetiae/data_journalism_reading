@@ -1,4 +1,4 @@
-Machine Learning & CS
+Machine Learning & AI
 =====================
 
 `Aldhous. Peter. We trained a computer to search for hidden spy planes: this is what it found. Buzzfeed. 2017
@@ -8,10 +8,16 @@ with `code <https://github.com/BuzzFeedNews/2017-08-spy-plane-finder>`_
 `Beckett, Charlie. New powers, new responsibilities: A global survey of journalism and artificial intelligence. 2019
 <https://blogs.lse.ac.uk/polis/2019/11/18/new-powers-new-responsibilities/>`_
 
+`Bhatia, Aatish. Watch an AI learn to write by reading nothing but Jane Austen, NY Times, 2023 <https://www.nytimes.com/interactive/2023/04/26/upshot/gpt-from-scratch.html>`_
+
 `Bradshaw, Paul. Ten ways AI can be used for investigations (slides). 2019
 <https://www.slideshare.net/onlinejournalist/10-ways-ai-can-be-used-for-investigations>`_
 
+`Bradshaw, Paul. Teaching journalism students chatgpt and generative AI. 2023 <https://onlinejournalismblog.com/2023/07/03/this-is-how-ill-be-teaching-journalism-students-chatgpt-and-generative-ai-next-semester/>`_ & `video talk <https://www.youtube.com/watch?v=qGNAlnTbaDo>`_ 
+
 `Cheung, Paul. Journalism’s superfood: AI? Knight Foundation. 2019 <https://knightfoundation.org/articles/journalisms-superfood-ai/>`_
+
+`Clarke, Sean et al. How AI chatbots like ChatGPT or Bard work: visual explainer <https://www.theguardian.com/technology/ng-interactive/2023/nov/01/how-ai-chatbots-like-chatgpt-or-bard-work-visual-explainer>`_ 
 
 `DataFlair. Detecting fake news with python
 <https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/>`_
@@ -35,6 +41,8 @@ with `code <https://github.com/BuzzFeedNews/2017-08-spy-plane-finder>`_
 
 `Merrill, Jeremy B. Searching Bill de Blasio's emails with the universal sentence encoder. Quartz
 <https://github.com/Quartz/aistudio-searching-data-dumps-with-use>`_
+
+`Murgia, Madhumita. Generative AI exists because of the transformer. This is how it works. 2023. <https://ig.ft.com/generative-ai/>`_
 
 `Roberts, Brandon. Dissecting a machine learning powered investigation: Uncovering local property
 tax evasion using machine learning and statistical modeling. Artificial Informer. April 2019
