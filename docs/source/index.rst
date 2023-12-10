@@ -18,7 +18,7 @@ Contents
    journalism
    legal
    mapping
-   ml
+   ml_ai
    network
    numbers
    osint
