@@ -36,6 +36,8 @@ Apress, 2018. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f
 
 Higgins, Eliot. *We are Bellingcat. An intelligence agency for the people*. Bloomsbury, 2021. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911943454002420>`_
 
+`Lamont, Tom. Eliot Higgins. The man who verifies. Prospect, 2023 <https://www.prospectmagazine.co.uk/world/64130/eliot-higgins-the-man-who-verifies>`_
+
 `McDermott, Yvonne. Open Source Information’s Blind Spot: Human and Machine Bias in International Criminal Investigations. Journal of International Criminal Justice, 2021 <https://academic.oup.com/jicj/article/19/1/85/6214619>`_
 
 Pool, Hans. *Bellingcat. Truth in a post-truth world*. 2018. 60’ documentary
