@@ -36,6 +36,10 @@ with `code <https://github.com/BuzzFeedNews/2017-08-spy-plane-finder>`_
 `ICIJ. Datashare (tool for sorting large amounts of documents)
 <https://icij.gitbook.io/datashare/>`_
 
+Marconi, Francesco. *Newsmakers: Artificial Intelligence and the Future
+of Journalism*. Columbia University Press, 2020.
+`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9780231549356>`_
+
 `Merrill, Jeremy B. Chamber of Secrets: teaching a machine what Congress cares about. Propublica. Oct 2017
 <https://www.propublica.org/nerds/teaching-a-machine-what-congress-cares-about>`_
 
@@ -43,6 +47,8 @@ with `code <https://github.com/BuzzFeedNews/2017-08-spy-plane-finder>`_
 <https://github.com/Quartz/aistudio-searching-data-dumps-with-use>`_
 
 `Murgia, Madhumita. Generative AI exists because of the transformer. This is how it works. 2023. <https://ig.ft.com/generative-ai/>`_
+
+`O'Neill, Cathy. Weapons of math destruction: how big data increases inequality and threatens democracy. Crown publishing group, 2016 <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/b7291a/cdi_globaltitleindex_catalog_210457428>`_
 
 `Roberts, Brandon. Dissecting a machine learning powered investigation: Uncovering local property
 tax evasion using machine learning and statistical modeling. Artificial Informer. April 2019
@@ -62,6 +68,8 @@ See also *Digital Journalism*, vol 7/8, 2019. `Library resource <https://library
 
 `Quartz. Helicopters circling (code)
 <https://github.com/Quartz/aistudio-copterbot-images>`_
+
+`Thompson, Erica. *Escape from model land. How mathematical models can lead us astray and what to do about it*. Basic Books. 2022`_
 
 `Wu, Floris. How machine learning can (and can’t) help journalists. March 2019
 <https://gijn.org/2019/03/19/how-machine-learning-can-and-cant-help-journalists/>`_

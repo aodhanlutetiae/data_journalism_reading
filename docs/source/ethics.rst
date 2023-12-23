@@ -30,10 +30,6 @@ Criado-Perez, Caroline. *Invisible women: data bias in a world designed for men*
 `Knight Center. Ethics and equity in data journalism. Online course.
 2020 <https://www.journalismcourses.org/course/equity-ethics-in-data-journalism-hands-on-approaches-to-getting-your-data-right-2/>`_
 
-Marconi, Francesco. *Newsmakers: Artificial Intelligence and the Future
-of Journalism*. Columbia University Press, 2020.
-`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9780231549356>`_
-
 `NPR. Did George Floyd die or was he murdered?
 2020 <https://www.npr.org/sections/publiceditor/2020/06/04/868969745/did-george-floyd-die-or-was-he-murdered-one-of-many-ethics-questions-npr-must-an?t=1610277517399>`_
 
