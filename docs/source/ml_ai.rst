@@ -69,7 +69,7 @@ See also *Digital Journalism*, vol 7/8, 2019. `Library resource <https://library
 `Quartz. Helicopters circling (code)
 <https://github.com/Quartz/aistudio-copterbot-images>`_
 
-`Thompson, Erica. *Escape from model land. How mathematical models can lead us astray and what to do about it*. Basic Books. 2022`_
+Thompson, Erica. *Escape from model land. How mathematical models can lead us astray and what to do about it*. Basic Books. 2022
 
 `Wu, Floris. How machine learning can (and can’t) help journalists. March 2019
 <https://gijn.org/2019/03/19/how-machine-learning-can-and-cant-help-journalists/>`_

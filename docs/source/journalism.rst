@@ -45,7 +45,7 @@ code <https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-codes/broadcast-
 `Orwell, George. Politics and the English Language.
 1946 <https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/>`_
 
-`Propublica. "Data style guide". Guide to working with data and publishing apps <https://github.com/propublica/guides>`_
+`Propublica. Data style guide (Guide to working with data and publishing apps) <https://github.com/propublica/guides>`_
 
 `Reuters. Handbook of
 journalism <http://handbook.reuters.com/index.php?title=Main_Page>`_

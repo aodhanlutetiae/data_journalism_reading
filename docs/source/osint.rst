@@ -4,7 +4,7 @@ OSINT
 `Ahmad, Mohammed Idriss. Bellingcat and how open source reinvented journalism. The New York Review of Books. June 2019
 <https://www.nybooks.com/daily/2019/06/10/bellingcat-and-how-open-source-reinvented-investigative-journalism/>`__
 
-Bazzell, Michael. *Open Source Intelligence Techniques*. Inteltechniques. 8th ed., 2021
+Bazzell, Michael. *Open Source Intelligence Techniques*. Inteltechniques. 10th ed., 2023
 
 `Berkeley Law Human Rights Center. Berkeley Protocol on Digital Open Source Investigations. Berkeley & UN, 2020
 <https://www.law.berkeley.edu/article/human-rights-center-berkeley-protocol-social-media-evidence-war-crimes-nuremberg/>`__
@@ -31,7 +31,7 @@ Hahn, Oliver & Stalph, Florian Hahn, Oliver, editor.; Stalph, Florian, editor.
 *Digital investigative journalism: data, visual analytics and innovative methodologies in international reporting*.
 Palgrave Macmillan, 2018. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911682114502420>`_
 
-Hassan, Nihad A & Hijazi, Rami. Open Source Intelligence Methods and Tools: A Practical Guide to Online Intelligence
+Hassan, Nihad A & Hijazi, Rami. *Open Source Intelligence Methods and Tools: A Practical Guide to Online Intelligence*
 Apress, 2018. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51156108450002420>`_
 
 Higgins, Eliot. *We are Bellingcat. An intelligence agency for the people*. Bloomsbury, 2021. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911943454002420>`_
