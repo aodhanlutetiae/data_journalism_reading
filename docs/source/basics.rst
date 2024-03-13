@@ -39,10 +39,14 @@ Mayhew, Henry. *London labour and the London poor* [1851-52]. Penguin, 1985. `Li
 Meyer, Philip. The journalism we need. *Precision Journalism*.
 Rowman & Littlefield, 1973, 2002, 4th ed., p. 1-17. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51112618970002420>`_
 
+`Miller, Claire. *Getting started with data journalism*. 2nd ed., Leanpub, (2022?) <https://leanpub.com/gettingstartedwithdatajournalism>`_
+
 Mutsvairo, Bruce et al. *Data Journalism in the Global South*. Springer. 2020.
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9783030251772>`_
 
 `News impact summit: democratising data (June 2021). Video, 5h <https://www.youtube.com/watch?v=0b4DjATPVR8>`_ & `programme <https://newsimpact.io/summits/news-impact-summit-online-data-2021>`_
+
+`Oniang'o, Maurice. Data journalism in Kenya. Reuters Institute. 2023. <https://reutersinstitute.politics.ox.ac.uk/news/how-new-generation-women-are-driving-golden-age-data-journalism-kenya>`_
 
 `Pilhofer, Aron. Getting started with datajournalism. 2017. 40'
 Video <https://www.youtube.com/watch?v=DYzDnufwHNE>`_
