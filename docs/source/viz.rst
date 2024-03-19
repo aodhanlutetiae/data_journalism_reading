@@ -29,7 +29,7 @@ Cairo, Alberto. *The truthful art*. New Rider, 2016
 
 `Cairo, Alberto. Datasaurus. 2016 <http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html>`_
 
-`Chalabi, Mona. Instagram <https://www.instagram.com/monachalabi/?hl=en>`_
+`Chalabi, Mona. Instagram <https://www.instagram.com/monachalabi/?hl=en>`_ & `2023 podcast<https://longform.org/posts/longform-podcast-558-mona-chalabi>` & `2024 article<https://www.theverge.com/24093294/mona-chalabi-interview-palestine-gaza-data-viz>`
 
 Dick, Murray. *The infographic: a history of data graphics in news and communications*. MIT Press, 2020. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911943454202420>`_
 

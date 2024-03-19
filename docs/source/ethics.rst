@@ -21,7 +21,7 @@ Datajournalism.com, 2017 <https://datajournalism.com/read/longreads/ethical-ques
 
 Criado-Perez, Caroline. *Invisible women: data bias in a world designed for men*. Vintage, 2019. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/3go6c4/44CAR_ALMA51186904880002420>`_
 
-`D'ignazio, Catherine & Klein, Lauren F. Data feminism. MIT Press, 2020 <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911901019502420>`_
+`D'ignazio, Catherine & Klein, Lauren F. Data feminism. MIT Press, 2020 <https://direct.mit.edu/books/oa-monograph/4660/Data-Feminism>`_
 
 `Diakopoulos, Nick. BuzzFeed’s pro tennis investigation displays ethical dilemmas of data journalism. CJR, 2016. <https://www.cjr.org/tow_center/transparency_algorithms_buzzfeed.php>`_
 
