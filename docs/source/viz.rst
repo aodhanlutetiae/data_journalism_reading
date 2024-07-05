@@ -29,7 +29,7 @@ Cairo, Alberto. *The truthful art*. New Rider, 2016
 
 `Cairo, Alberto. Datasaurus. 2016 <http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html>`_
 
-`Chalabi, Mona. Instagram <https://www.instagram.com/monachalabi/?hl=en>`_ & `2023 podcast<https://longform.org/posts/longform-podcast-558-mona-chalabi>` & `2024 article<https://www.theverge.com/24093294/mona-chalabi-interview-palestine-gaza-data-viz>`
+`Chalabi, Mona. Instagram <https://www.instagram.com/monachalabi/?hl=en>`_ & `2023 podcast<https://longform.org/posts/longform-podcast-558-mona-chalabi>`_ & `2024 article<https://www.theverge.com/24093294/mona-chalabi-interview-palestine-gaza-data-viz>`_
 
 Dick, Murray. *The infographic: a history of data graphics in news and communications*. MIT Press, 2020. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911943454202420>`_
 
@@ -38,12 +38,12 @@ Society. 2020 <https://www.jstor.org/stable/j.ctvzgb8c7>`_
 
 `Financial Times. Chart advice blogs. <https://www.ft.com/chart-doctor>`_
 
-Frost, Adam et al. Communicating with data visualisation: a practical guide. Sage, 2022. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912059004702420>`_
+Frost, Adam et al. *Communicating with data visualisation: a practical guide*. Sage, 2022. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912059004702420>`_
 
 `House of Commons. Library guide to designing effective
 charts <https://researchbriefings.files.parliament.uk/documents/SN05073/SN05073.pdf>`_
 
-Kirk, Andy. Data visualisation: a handbook for data driven design. SAGE, 2019 (2nd ed.) `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/c1t5b/alma9911831176702420>`_
+Kirk, Andy. *Data visualisation: a handbook for data driven design*. SAGE, 2019 (2nd ed.) `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/c1t5b/alma9911831176702420>`_
 
 `Knight Center. Module 5. Visualising. Data journalism and
 visualisation with free tools. Online course.
@@ -57,8 +57,8 @@ Generating Datasets with Varied Appearance and Identical Statistics
 through Simulated Annealing, CHI,
 2017 ['the Datasaurus dozen'] <https://www.researchgate.net/publication/316652618_Same_Stats_Different_Graphs_Generating_Datasets_with_Varied_Appearance_and_Identical_Statistics_through_Simulated_Annealing>`_
 
-`Muth, Lisa Charlotte. How to choose more beautiful colors for your data visualisation. Blogpost, Datawrapper,
-2020 <https://blog.datawrapper.de/beautifulcolors/>`_
+.. `Muth, Lisa Charlotte. How to choose more beautiful colors for your data visualisation. Blogpost, Datawrapper,
+.. 2020 <https://blog.datawrapper.de/beautifulcolors/>`_
 
 `Muth, Lisa Charlotte. In defense of simple charts. Blogpost, Datawrapper, 2021 <https://blog.datawrapper.de/in-defense-of-simple-charts/>`_
 
@@ -74,11 +74,13 @@ Smith, Alan. *How charts work*. Pearson, 2022. `Library resource <https://librar
 `Sunlight Foundation. Dataviz style
 guidelines <https://github.com/amycesal/dataviz-style-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf>`_
 
-Tufte, Edward. *Beautiful Evidence*. Graphics Press, 2006
+Tufte, Edward
 
-Tufte, Edward. *Envisioning information*. Graphics Press, 1990. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma994076703402420>`_
+— *Beautiful Evidence*. Graphics Press, 2006
 
-Tufte, Edward. *The visual display of quantitative information*. 2nd ed.,
+— *Envisioning information*. Graphics Press, 1990. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma994076703402420>`_
+
+— *The visual display of quantitative information*. 2nd ed.,
 Graphics Press, 2001
 
 Tableau resources:

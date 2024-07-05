@@ -35,6 +35,8 @@ Criado-Perez, Caroline. *Invisible women: data bias in a world designed for men*
 `NPR. Did George Floyd die or was he murdered?
 2020 <https://www.npr.org/sections/publiceditor/2020/06/04/868969745/did-george-floyd-die-or-was-he-murdered-one-of-many-ethics-questions-npr-must-an?t=1610277517399>`_
 
+`Nguyen, C. Thi. The limits of data. Issues in science and technology. Winter 2024. <https://issues.org/limits-of-data-nguyen/>`_
+
 `Open Data Institute. Assessing risk when sharing data: a guide. Feb 2022 <https://theodi.org/article/assessing-risk-when-sharing-data-a-guide/>`_
 
 Rogers, Richard. The API and the ethics turn. *Doing Digital Methods*.

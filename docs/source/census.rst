@@ -5,7 +5,9 @@ Census 2021
 
 `Benton, Pete. Census 2021: ask me anything. Reddit. October 2020 <https://www.reddit.com/r/AskUK/comments/jel9pl/hello_everyone_im_pete_benton_from_the_office_for/>`_
 
-`Dunn, Ed. "Census 2021: the count is done, the data is in, so what happens next?" ONS. <https://blog.ons.gov.uk/2021/10/12/census-2021-the-count-is-done-the-data-is-in-so-what-happens-next/>`_
+`Biggs, Michael. Gender Identity in the 2021 Census of England and Wales: How a Flawed Question Created Spurious Data. Sociology, 2024. <https://journals.sagepub.com/doi/10.1177/00380385241240441>`_
+
+`Dunn, Ed. Census 2021: the count is done, the data is in, so what happens next? ONS. <https://blog.ons.gov.uk/2021/10/12/census-2021-the-count-is-done-the-data-is-in-so-what-happens-next/>`_
 
 Hutchinson, Roger. *The Butcher, the baker, the candlestick maker*. Abacus, 2017
 

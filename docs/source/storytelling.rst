@@ -26,6 +26,8 @@ tipsheets <https://drive.google.com/drive/folders/1FOLQKiQdVX2Wr5Z2YXw5beI6S9ECA
 Paulos, John Allen. *Once upon a number: The hidden mathematical logic
 of stories*. Penguin, 1998
 
+`Pudding. Essays & blogposts <https://pudding.cool/resources/>`_
+
 Storr, Will. *The science of storytelling*. William Collins, 2019
 
 `Thomas, Amber. How to go from idea, to data, to story. The Pudding.

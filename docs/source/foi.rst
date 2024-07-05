@@ -3,7 +3,7 @@ FOI & EIR
 
 `11KBW. Pantopicon (blog) <https://panopticonblog.com/>`_
 
-`Amin, Lucas. Access denied: the UK government attack on Freedom of Information. Open Democracy, October 2021 <https://www.documentcloud.org/documents/21091086-opendemocracy_acessdenied_report2021>`_
+`Amin, Lucas. Access denied: the UK government attack on Freedom of Information. Open Democracy, 2021 <https://www.documentcloud.org/documents/21091086-opendemocracy_acessdenied_report2021>`_
 
 Amin, Lucas & Montague, Brendan. *FOIA without the lawyer: freedom, information and the press*. TCIJ, 2012
 
@@ -78,10 +78,13 @@ information <https://www.legalleaks.info/wp-content/uploads/2018/06/Legal_Leaks_
 `McIntosh, Toby. Walking the FOI beat. Tipsheet. GIJN.
 2019 <https://drive.google.com/file/d/1D41ZBiOPWLR9_8E7G-5lugLFJg3BQdJ4/view>`_
 
-`Miller, Claire, A great big list of FOI ideas. Jan
-2013 <http://clairemiller.net/blog/2013/01/a-great-big-list-of-foi-ideas/>`_
+Miller, Claire 
 
-Morrison, James. Freedom of Information. *Essential public affairs for journalists (7th ed.)*. OUP, 2021, p. 436-52. `Library resource (6th ed) <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911846722102420>`_
+- `A great big list of FOI ideas. 2013 <http://clairemiller.net/blog/2013/01/a-great-big-list-of-foi-ideas/>`_
+
+- `Getting started with FOI, a guide. <https://clairemiller.net/Getting%20Started%20with%20FOI.pdf>`_
+
+Morrison, James. Freedom of Information. *Essential public affairs for journalists (7th ed.)*. OUP, 2021, p. 436-52. `Library resource (6th ed.) <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911846722102420>`_
 
 `Open Democracy. Freedom of Information (article series) <https://www.opendemocracy.net/search/?query=FOI>`_
 
@@ -92,8 +95,7 @@ Journalism.co.uk.
 `Rosenbaum, Martin. 10 things we found out because of FOI. BBC Online.
 2015 <https://www.bbc.co.uk/news/magazine-30645383>`_
 
-`TBIJ. Bureau launches action over hidden council finances. October
-2020 <https://www.thebureauinvestigates.com/stories/2020-10-22/bureau-launches-action-over-hidden-council-finances>`_
+`TBIJ. Bureau launches action over hidden council finances. 2020 <https://www.thebureauinvestigates.com/stories/2020-10-22/bureau-launches-action-over-hidden-council-finances>`_
 
 `UCL. Chronology of FOI in the
 UK <https://www.ucl.ac.uk/constitution-unit/research/research-archive/foi-archive/what-freedom-information-data-protection>`_

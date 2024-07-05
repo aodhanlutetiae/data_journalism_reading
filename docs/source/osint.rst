@@ -36,14 +36,16 @@ Apress, 2018. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f
 
 Higgins, Eliot. *We are Bellingcat. An intelligence agency for the people*. Bloomsbury, 2021. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911943454002420>`_
 
-`Lamont, Tom. Eliot Higgins. The man who verifies. Prospect, 2023 <https://www.prospectmagazine.co.uk/world/64130/eliot-higgins-the-man-who-verifies>`_
+`Lamont, Tom. Eliot Higgins: The man who verifies. Prospect, 2023 <https://www.prospectmagazine.co.uk/world/64130/eliot-higgins-the-man-who-verifies>`_
 
 `McDermott, Yvonne. Open Source Information’s Blind Spot: Human and Machine Bias in International Criminal Investigations. Journal of International Criminal Justice, 2021 <https://academic.oup.com/jicj/article/19/1/85/6214619>`_
 
 Pool, Hans. *Bellingcat. Truth in a post-truth world*. 2018. 60’ documentary
 `Library resource (Box of Broadcasts) <https://learningonscreen.ac.uk/ondemand/index.php/prog/15C85789?bcast=131686533>`__
 
-`Silverman, Craig. Verification Handbook 2 <http://verificationhandbook.com/downloads/verification.handbook.2.pdf>`__
+`Silverman, Craig. Verification Handbook 2 <http://verificationhandbook.com/downloads/verification.handbook.2.pdf>`_
 
-`Tett, Gillian, The keyboard warriors on Ukraine’s digital front line, FT. Feb 2023 <https://www.ft.com/content/7e3d95c3-8118-4ade-ae0c-68512383b7b4>`_
+`Tett, Gillian. The keyboard warriors on Ukraine’s digital front line, FT. Feb 2023 <https://www.ft.com/content/7e3d95c3-8118-4ade-ae0c-68512383b7b4>`_
+
+`Wilson, Henrietta et al. (eds). Open source investigations in the age of Google. World Scientific, 2024 <https://www.worldscientific.com/doi/pdf/10.1142/q0414?download=true>`_
 

@@ -17,7 +17,7 @@ through a world of numbers*. Profile, 2008
 
 Blauw, Sanne. *The number bias*. Sceptre, 2020
 
-Chivers, Tom & David Chivers. *How to read numbers. A guide to statistics in the news*. W&N, 2021
+.. Chivers, Tom & David Chivers. *How to read numbers. A guide to statistics in the news*. W&N, 2021
 
 `Coddington, Mark & Lewis, Seth. Do journalists hide behind sources when they use numbers in the news? Nieman Lab, 2021 <https://www.niemanlab.org/2021/06/do-journalists-hide-behind-sources-when-they-use-numbers-in-the-news/>`_
 &
@@ -60,7 +60,7 @@ Jerven, Morten. Preface. *Poor Numbers*. Cornell University Press, 2013, p. ix�
 guide to critical reporting. Datajournalism.com,
 2019 <https://datajournalism.com/read/longreads/hard-data-and-soft-statistics-a-guide-to-critical-reporting>`_
 
-Kahneman, Daniel. *Thinking, Fast and Slow*. Penguin, 2011. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA2171412520002420>`_
+.. Kahneman, Daniel. *Thinking, Fast and Slow*. Penguin, 2011. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA2171412520002420>`_
 
 `Kaplan, Daniel. Statistical Modelling. 2017 <https://dtkaplan.github.io/SM2-bookdown>`_
 
@@ -74,9 +74,9 @@ Video <https://www.youtube.com/watch?v=_qioPxHuk0U>`_
 
 `Matthews, Robert. Storks deliver babies. Teaching statistics, 22/2, 2000 <https://onlinelibrary.wiley.com/doi/epdf/10.1111/1467-9639.00013>`_
 
-Meyer, Philip. *Precision Journalism. A Reporter’s Introduction to
-Social Science Methods*. Rowman & Littlefield, 4th ed., 2002.
-`Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51112618970002420>`_
+.. Meyer, Philip. *Precision Journalism. A Reporter’s Introduction to
+.. Social Science Methods*. Rowman & Littlefield, 4th ed., 2002.
+.. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51112618970002420>`_
 
 `NCTJ. Reporting polls (online course). <https://skillsacademy.nctj.com/course/view.php?id=84>`_
 

@@ -21,7 +21,7 @@ drives of leaked files. Guardian.
 `Defence and Security Media Advisory (DSMA) Committee. Standing
 Notices <https://dsma.uk/standing-notices/>`_
 
-Harrison, Sian & Hanna, Mark. *McNae’s Essential Law for Journalists*. 26th ed., 2022. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912123069002420>`_ [Esp. Chapter 28, 'Data protection', p. 433-41]
+Harrison, Sian & Hanna, Mark. *McNae’s Essential Law for Journalists*. 26th ed., 2022. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912123069002420>`_ [Esp. Chapter 28, 'Data protection', p. 433-41] | 27th ed out June 2024.
 
 `Georgiev, Peter. A robot commits libel. Who is responsible?, RJI,
 2019 <https://www.rjionline.org/stories/a-robot-commits-libel-who-is-responsible?>`__
@@ -34,7 +34,7 @@ repository <https://docs.github.com/en/free-pro-team@latest/github/creating-clon
 
 `Glanville, Jo. The journalistic exemption (Data Protection Act). LRB. 2018 <https://www.lrb.co.uk/the-paper/v40/n13/jo-glanville/the-journalistic-exemption>`_
 
-`ICO. Data protection and journalism. Code of practice. [Submitted to govt July 2023] <https://ico.org.uk/media/for-organisations/documents/4025760/data-protection-and-journalism-code-202307.pdf>`_
+`ICO. Data protection and journalism. Code of practice. 2023 <https://ico.org.uk/media/for-organisations/documents/4025760/data-protection-and-journalism-code-202307.pdf>`_
 
 `ICO. Guide to Privacy and Electronic Communications Regulations. <https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/guide-to-pecr/>`_
 
@@ -53,7 +53,7 @@ Murray, Andrew. *Information technology law: the law and society*. 4th ed., OUP,
 `Reuters. Microsoft's LinkedIn loses appeal over access to user
 profiles, 2019 <https://www.reuters.com/article/us-microsoft-linkedin-profiles/microsofts-linkedin-loses-appeal-over-access-to-user-profiles-idUSKCN1VU21W>`_
 
-Roussev, L. 'The DPDI No.2 Bill - GDPR Revamp or Rule Tinkering?', *European data protection law review*, 2023, 9/2, p.231-238 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/b7291a/cdi_crossref_primary_10_21552_edpl_2023_2_20>`_
+Roussev, L. 'The DPDI No.2 Bill: GDPR Revamp or Rule Tinkering?', *European data protection law review*, 2023, 9/2, p.231-238 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/b7291a/cdi_crossref_primary_10_21552_edpl_2023_2_20>`_
 
 `Terziu & Yates. Data protection claims in media law cases: where are we now? Taylor Wessing, 2022 <https://www.taylorwessing.com/en/global-data-hub/2022/february---data-protection-freedom-of-expression-journalism-and-the-media/data-protection-claims-in-media-law-cases---where-are-we-now>`_
 

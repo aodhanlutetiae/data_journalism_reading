@@ -13,7 +13,7 @@ Felle, Tom et al. *Data journalism: inside the global future*. Abramis, 2015. `L
 
 Global Investigative Journalism Conferences. `2019 <https://www.youtube.com/playlist?list=PLrCL-ZiCvKYteU2XOChSkW1l7-oRHzwxV>`_ | `2021 <https://www.youtube.com/hashtag/gijc21>`_
 
-`GIJN Introductory videos. <https://gijn.org/2022/04/11/video-resources-for-data-investigations>`_
+`GIJN Introductory videos <https://gijn.org/2022/04/11/video-resources-for-data-investigations>`_
 
 Harford, Tim. Ponder your personal experience. *How to make the world
 add up. Ten rules for thinking differently about numbers*. Bridge Street
@@ -23,23 +23,23 @@ Press, 2020. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44
 2015 <https://gijn.org/2015/11/12/fifty-years-of-journalism-and-data-a-brief-history/>`_ and `Datajournalism.com,
 2021 <https://datajournalism.com/read/longreads/the-history-of-data-journalism>`_
 
-Houston, Brant. Data for journalists: a practical guide for computer-assisted reporting. Routledge, 2019. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911677123502420>`_
+Houston, Brant. *Data for journalists: a practical guide for computer-assisted reporting*. Routledge, 2019. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911677123502420>`_
 
-`International Journalism Festival (Perugia) 2019. Video
-playlist <https://media.journalismfestival.com/programme/2019/category/data-journalism-school>`_
+.. `International Journalism Festival (Perugia) 2019. Video
+.. playlist <https://media.journalismfestival.com/programme/2019/category/data-journalism-school>`_
 
 Kovach, Bill & Rosenstiel, Tom. *The Elements of Journalism. What
 newspeople should know and the public should expect*. Three Rivers
 Press, 2012. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/c1t5b/alma9910660513402420>`_
 
-Mair, John et al. Data journalism: past, present and future. Abramis, 2017. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911528815102420>`_
+Mair, John et al. *Data journalism: past, present and future*. Abramis, 2017. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911528815102420>`_
 
 Mayhew, Henry. *London labour and the London poor* [1851-52]. Penguin, 1985. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/c1t5b/alma995702033402420>`_
 
 Meyer, Philip. The journalism we need. *Precision Journalism*.
 Rowman & Littlefield, 1973, 2002, 4th ed., p. 1-17. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51112618970002420>`_
 
-`Miller, Claire. *Getting started with data journalism*. 2nd ed., Leanpub, (2022?) <https://leanpub.com/gettingstartedwithdatajournalism>`_
+`Miller, Claire. Getting started with data journalism. 2nd ed., Leanpub, (2022?) <https://leanpub.com/gettingstartedwithdatajournalism>`_
 
 Mutsvairo, Bruce et al. *Data Journalism in the Global South*. Springer. 2020.
 `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_askewsholts_vlebooks_9783030251772>`_

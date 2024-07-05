@@ -71,7 +71,7 @@ See also *Digital Journalism*, vol 7/8, 2019. `Library resource <https://library
 
 Thompson, Erica. *Escape from model land. How mathematical models can lead us astray and what to do about it*. Basic Books. 2022
 
-`Wu, Floris. How machine learning can (and can’t) help journalists. March 2019
+`Wu, Floris. How machine learning can (and can’t) help journalists. GIJN. March 2019
 <https://gijn.org/2019/03/19/how-machine-learning-can-and-cant-help-journalists/>`_
 
 `Wu, Floris. The future of machine learning in journalism. Storybench. 2019
