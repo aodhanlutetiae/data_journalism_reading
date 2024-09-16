@@ -27,8 +27,7 @@ Dubberly, Sam, Koenig, Alexa & Murray, Daragh. *Digital Witness. Using Open Sour
 
 `Edwards, Maxim. Open-source journalism in a wired world. Nieman report, 2022 <https://niemanreports.org/articles/open-source-journalism/>`_
 
-Hahn, Oliver & Stalph, Florian Hahn, Oliver, editor.; Stalph, Florian, editor.
-*Digital investigative journalism: data, visual analytics and innovative methodologies in international reporting*.
+Hahn, Oliver & Stalph, Florian Hahn, Oliver. *Digital investigative journalism: data, visual analytics and innovative methodologies in international reporting*.
 Palgrave Macmillan, 2018. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911682114502420>`_
 
 Hassan, Nihad A & Hijazi, Rami. *Open Source Intelligence Methods and Tools: A Practical Guide to Online Intelligence*
@@ -44,6 +43,9 @@ Pool, Hans. *Bellingcat. Truth in a post-truth world*. 2018. 60’ documentary
 `Library resource (Box of Broadcasts) <https://learningonscreen.ac.uk/ondemand/index.php/prog/15C85789?bcast=131686533>`__
 
 `Silverman, Craig. Verification Handbook 2 <http://verificationhandbook.com/downloads/verification.handbook.2.pdf>`_
+
+Subramanian, Samantha. The forensic empire of Eliot Higgins. Wired. July-Aug 2024, p. 126-31.
+`Online version <https://www.wired.com/story/how-to-lead-army-of-digital-sleuths-age-of-ai/>`_
 
 `Tett, Gillian. The keyboard warriors on Ukraine’s digital front line, FT. Feb 2023 <https://www.ft.com/content/7e3d95c3-8118-4ade-ae0c-68512383b7b4>`_
 

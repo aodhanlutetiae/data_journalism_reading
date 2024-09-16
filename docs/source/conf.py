@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'data journalism reading'
-copyright = "2023, Aidan O'Donnell"
+copyright = "2024, Aidan O'Donnell"
 author = '@aodhanlutetiae'
 
 release = '0.1'
