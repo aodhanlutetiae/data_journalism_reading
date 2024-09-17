@@ -11,7 +11,6 @@ Contents
 
    basics
    census
-   covid
    digisec
    ethics
    foi
