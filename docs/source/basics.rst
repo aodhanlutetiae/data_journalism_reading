@@ -25,8 +25,7 @@ Press, 2020. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44
 
 Houston, Brant. *Data for journalists: a practical guide for computer-assisted reporting*. Routledge, 2019. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911677123502420>`_
 
-.. `International Journalism Festival (Perugia) 2019. Video
-.. playlist <https://media.journalismfestival.com/programme/2019/category/data-journalism-school>`_
+.. `International Journalism Festival (Perugia) 2019. Video playlist <https://media.journalismfestival.com/programme/2019/category/data-journalism-school>`_
 
 Kovach, Bill & Rosenstiel, Tom. *The Elements of Journalism. What
 newspeople should know and the public should expect*. Three Rivers
