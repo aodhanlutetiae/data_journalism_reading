@@ -21,7 +21,7 @@ drives of leaked files. Guardian.
 `Defence and Security Media Advisory (DSMA) Committee. Standing
 Notices <https://dsma.uk/standing-notices/>`_
 
-Harrison, Sian & Hanna, Mark. *McNae’s Essential Law for Journalists*. 26th ed., 2022. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912123069002420>`_ [Esp. Chapter 28, 'Data protection', p. 433-41] | 27th ed out June 2024.
+Harrison, Siân & Phillips, Gill. *McNae’s Essential Law for Journalists*. 27th ed., 2024. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912411170602420>`_ [Esp. Chapter 28, 'Data protection'].
 
 `Georgiev, Peter. A robot commits libel. Who is responsible?, RJI,
 2019 <https://www.rjionline.org/stories/a-robot-commits-libel-who-is-responsible?>`__
