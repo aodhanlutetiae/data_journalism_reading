@@ -90,10 +90,6 @@ consequences*. Penguin, 1988
 
 Porter, Theodore. *Trust in numbers: the pursuit of objectivity in science and public life*. Princeton University Press, 1996. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma996259583402420>`_
 
-`Reinhart, Alex. Statistics Done Wrong. The woefully complete guide.
-No Starch Press,
-2015 <http://www.r-5.org/files/books/computers/dev-teams/trenches/Alex_Reinhart-Statistics_Done_Wrong-EN.pdf>`__
-
 Reuben, Anthony. *Statistical. Ten easy ways to avoid being misled by
 numbers*. Constable, 2019
 

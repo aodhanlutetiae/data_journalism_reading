@@ -17,6 +17,8 @@ guidelines <https://www.bbc.com/editorialguidelines/guidelines>`_
 
 Bloomberg. *The Bloomberg way*. 2014 edition. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/b7291a/cdi_proquest_ebookcentralchapters_1638550_7_23>`_
 
+Boland-Rudder, Hamish & Fitzgibbon, Will. Data Journalism in a time of epic data leaks. De Burgh, Hugo (ed.), *Investigative Journalism*. 3rd ed., Routledge, 2021, p. 17-29. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/c1t5b/alma9911974177002420>`_
+
 Carpenter, Siri. *The craft of science writing: selections from the Open Notebook*. Madison,
 2020. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912026677402420>`_
 
@@ -49,3 +51,5 @@ code <https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-codes/broadcast-
 
 `Reuters. Handbook of
 journalism <http://handbook.reuters.com/index.php?title=Main_Page>`_
+
+Rusbridger, Alan. News and how to use it. Canongate, 2020. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911941972202420>`_

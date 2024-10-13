@@ -39,6 +39,8 @@ Higgins, Eliot. *We are Bellingcat. An intelligence agency for the people*. Bloo
 
 `McDermott, Yvonne. Open Source Information’s Blind Spot: Human and Machine Bias in International Criminal Investigations. Journal of International Criminal Justice, 2021 <https://academic.oup.com/jicj/article/19/1/85/6214619>`_
 
+McMahon, Félim. Digital Sleuthing. De Burgh, Hugo (ed.), *Investigative Journalism*. 3rd ed., Routledge, 2021, p. 57-72. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/c1t5b/alma9911974177002420>`_
+
 Pool, Hans. *Bellingcat. Truth in a post-truth world*. 2018. 60’ documentary
 `Library resource (Box of Broadcasts) <https://learningonscreen.ac.uk/ondemand/index.php/prog/15C85789?bcast=131686533>`__
 
