@@ -29,7 +29,7 @@ this! (complete list of quiz links) <https://aodhanlutetiae.github.io/posts/2020
 
 `Guardian. Style guide <https://www.theguardian.com/guardian-observer-style-guide-a>`_
 
-`Impress. Standards code <https://www.impress.press/standards/>`__
+`Impress. Standards code <https://www.impressorg.com/standards/impress-standards-code/our-standards-code/>`__
 
 `IPSO. Rulings <https://www.ipso.co.uk/rulings-and-resolution-statements/>`_
 
