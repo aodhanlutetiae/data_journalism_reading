@@ -9,6 +9,8 @@ Digital security
 
 `Global Cyber Alliance. Cybersecurity toolkit for journalists <https://gcatoolkit.org/journalists>`_
 
+`Knight Center course on digital security <https://journalismcourses.org/product/digital-security-for-journalists-in-times-of-crisis/>`_
+
 `Rory Peck Trust. Digital security resources for freelancers <https://rorypecktrust.org/how-we-help/freelance-resources/digital-security/digital-risk-assessment/>`_
 
 `Reporters Without Borders. Digital security guide <https://helpdesk.rsf.org/digital-security-guide/>`_

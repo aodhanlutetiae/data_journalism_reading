@@ -1,6 +1,8 @@
 Scraping & APIs
 ===============
 
+`Belanger, Ashley. Arstechnica, 2025. <https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/>`_
+
 Bradshaw, Paul. *Scraping for Journalists*. Leanpub, 2017
 
 `Bradshaw, Paul. What Data Journalists Need to Know About APIs. GIJN, 2022 <https://gijn.org/2022/12/06/what-data-journalists-need-to-know-about-application-programming-interfaces-apis/>`_
@@ -65,3 +67,5 @@ Sweigart, Al. "Web scraping", *Automate the boring stuff*, No starch press, 2nd 
 2020 <https://gijn.org/2020/12/17/why-web-scraping-is-vital-to-democracy/>`_
 
 `Velotio. Scraping guidelines & best practices <https://www.velotio.com/engineering-blog/web-scraping-introduction-best-practices-caveats>`_
+
+`Whittaker, Zack. eb scraping is legal, US appeals court reaffirms, 2022 <https://techcrunch.com/2022/04/18/web-scraping-legal-court/> `_

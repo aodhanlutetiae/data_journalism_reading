@@ -1,6 +1,10 @@
 Machine Learning & AI
 =====================
 
+.. AI snake oil, 2024. library online access
+.. https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912475437602420
+
+
 `Aldhous. Peter. We trained a computer to search for hidden spy planes: this is what it found. Buzzfeed. 2017
 <https://www.buzzfeednews.com/article/peteraldhous/hidden-spy-planes>`_
 with `code <https://github.com/BuzzFeedNews/2017-08-spy-plane-finder>`_

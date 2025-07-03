@@ -83,7 +83,7 @@ Wales <http://www2.nphs.wales.nhs.uk:8080/PubHObservatoryProjDocs.nsf/85c5075673
 2019 <https://geoportal.statistics.gov.uk/documents/ons::a-beginners-guide-to-uk-geography-2021-v1-0/about>`_
 
 `ONS. All geographic codes for the UK.
-July 2024 <https://geoportal.statistics.gov.uk/datasets/2a3730b53dbb4056a07913676e0fd774/about>`_
+December 2024 <https://geoportal.statistics.gov.uk/datasets/ons::register-of-geographic-codes-december-2024-for-the-uk/about>`_
 
 Robinson, Arthur H. *The look of maps. An examination of cartographic
 design*. Esri press classics, 1952; 2010

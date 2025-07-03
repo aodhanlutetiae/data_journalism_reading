@@ -9,15 +9,14 @@ Contents
 
 .. toctree::
 
+   ai
    basics
-   census
    digisec
    ethics
    foi
    journalism
    legal
    mapping
-   ml_ai
    network
    numbers
    osint

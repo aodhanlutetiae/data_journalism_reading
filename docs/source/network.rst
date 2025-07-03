@@ -20,8 +20,6 @@ Tools:
 
 `Bradshaw, Paul. A journalist’s introduction to network analysis. 2020 <https://onlinejournalismblog.com/2020/06/08/a-journalists-introduction-to-network-analysis>`_
 
-`Bradshaw, Paul. Empathy as an investigative tool. 2020 <https://onlinejournalismblog.com/2020/02/19/empathy-investigative-journalism-story-ideas>`_
-
 `Brown, Meta S. Why Panama Papers journalists use graph databases. 2016 <https://www.forbes.com/sites/metabrown/2016/04/30/why-panama-papers-journalists-use-graph-databases>`_
 
 `Eastwood, Jones & Wolfe. Trump, his children and 500+ potential conflicts of interest. WSJ, 2017 <https://www.wsj.com/graphics/donald-trump-potential-conflicts-of-interest/>`_

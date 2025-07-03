@@ -106,8 +106,6 @@ you and how to ask the right questions. Sense About Science.
 Silver, Nate. *The Signal and the Noise. The Art and Science of
 Prediction*. Penguin, 2012
 
-Spiegelhalter, David. *The Art of Statistics. Learning from Data*. Pelican, 2019
-
 `Stray, Jonathan. Drawing conclusions from data. 2013. <https://source.opennews.org/articles/statistically-sound-data-journalism/>`_
 
 `Stray, Jonathan. The curious journalist’s guide to data. Tow Center,
