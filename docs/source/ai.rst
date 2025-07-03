@@ -1,4 +1,4 @@
-Machine Learning & AI
+AI
 =====================
 
 .. AI snake oil, 2024. library online access
