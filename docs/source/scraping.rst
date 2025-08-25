@@ -68,4 +68,4 @@ Sweigart, Al. "Web scraping", *Automate the boring stuff*, No starch press, 2nd 
 
 `Velotio. Scraping guidelines & best practices <https://www.velotio.com/engineering-blog/web-scraping-introduction-best-practices-caveats>`_
 
-`Whittaker, Zack. eb scraping is legal, US appeals court reaffirms, 2022 <https://techcrunch.com/2022/04/18/web-scraping-legal-court/> `_
+`Whittaker, Zack. eb scraping is legal, US appeals court reaffirms, 2022 <https://techcrunch.com/2022/04/18/web-scraping-legal-court/>`_

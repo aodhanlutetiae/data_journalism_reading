@@ -104,7 +104,7 @@ you and how to ask the right questions. Sense About Science.
 2010 <https://senseaboutscience.org/activities/making-sense-of-statistics/>`_
 
 Silver, Nate. *The Signal and the Noise. The Art and Science of
-Prediction*. Penguin, 2012
+Prediction*. Penguin, 2012. [Esp. C12 "A climate of healthy skepticism"]
 
 `Stray, Jonathan. Drawing conclusions from data. 2013. <https://source.opennews.org/articles/statistically-sound-data-journalism/>`_
 
