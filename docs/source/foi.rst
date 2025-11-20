@@ -5,6 +5,8 @@ FOI & EIR
 
 `Amin, Lucas. Access denied: the UK government attack on Freedom of Information. Open Democracy, 2021 <https://www.documentcloud.org/documents/21091086-opendemocracy_acessdenied_report2021>`_
 
+Amin, Lucas. Art of darkness. Open Democracy, 2020.
+
 Amin, Lucas & Montague, Brendan. *FOIA without the lawyer: freedom, information and the press*. TCIJ, 2012
 
 Amin, Lucas & Montague, Brendan. *EIRs without the lawyer: the journalist's guide to the Environmental Information Regulations*. TCIJ, 2013
@@ -94,6 +96,8 @@ Journalism.co.uk.
 
 `Rosenbaum, Martin. 10 things we found out because of FOI. BBC Online.
 2015 <https://www.bbc.co.uk/news/magazine-30645383>`_
+
+`Rosenbaum, Martin. Freedom of information: a practical guidebook. 2023 <https://rosenbaum.org.uk/books/>`_
 
 `TBIJ. Bureau launches action over hidden council finances. 2020 <https://www.thebureauinvestigates.com/stories/2020-10-22/bureau-launches-action-over-hidden-council-finances>`_
 

@@ -11,7 +11,7 @@ Digital security
 
 `Knight Center course on digital security <https://journalismcourses.org/product/digital-security-for-journalists-in-times-of-crisis/>`_
 
-`Rory Peck Trust. Digital security resources for freelancers <https://rorypecktrust.org/how-we-help/freelance-resources/digital-security/digital-risk-assessment/>`_
+`Rory Peck Trust. Digital security resources for freelancers <https://rorypecktrust.org/get-help/safety/digital-security/>`_
 
 `Reporters Without Borders. Digital security guide <https://helpdesk.rsf.org/digital-security-guide/>`_
 

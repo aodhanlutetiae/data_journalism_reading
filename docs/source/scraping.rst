@@ -1,6 +1,8 @@
 Scraping & APIs
 ===============
 
+`BBC. Editorial Guidelines sec. 11: Data etc. <https://www.bbc.co.uk/editorialguidelines/guidelines/statistics-data-polls-surveys>`_
+
 `Belanger, Ashley. Arstechnica, 2025. <https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/>`_
 
 Bradshaw, Paul. *Scraping for Journalists*. Leanpub, 2017
@@ -41,7 +43,13 @@ Mitchell, Ryan. Legalities & ethics of web scraping (p. 265-79); Note on ethics 
 `Ni, Daniel. Five Tips for web scraping without getting booted.
 2019 <https://www.scraperapi.com/blog/5-tips-for-web-scraping/>`_
 
+`ONS. Guide to bot development <https://developer.ons.gov.uk/bots/>`_
+
+`ONS. Fair use policy <https://www.ons.gov.uk/help/fairusepolicy>`_
+
 `ONS. Web scraping policy <https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/datapolicies/webscrapingpolicy>`_
+
+`Parkrun. Anti-scraping policy <https://docs.google.com/document/d/1wT5QbYBWihsNP919wzpKi5m2nEAO4ZajxERAYTui3uA/edit?tab=t.0#heading=h.96r4cksn1gos>`_
 
 `Schacht, Kira. A web scraping toolkit for journalists,
 2019 <https://journocode.com/en/tutorials/a-web-scraping-toolkit-for-journalists>`_
