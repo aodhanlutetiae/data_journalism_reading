@@ -49,6 +49,8 @@ Mitchell, Ryan. Legalities & ethics of web scraping (p. 265-79); Note on ethics 
 
 `ONS. Web scraping policy <https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/datapolicies/webscrapingpolicy>`_
 
+`Pagallo, Ugo & Sciolla, Jacopo. Anatomy of web data scraping: ethics, stnadards, and the troubles of the law. 2023 <https://universitypress.unisob.na.it/ojs/index.php/ejplt/article/viewFile/1854/1420>`_
+
 `Parkrun. Anti-scraping policy <https://docs.google.com/document/d/1wT5QbYBWihsNP919wzpKi5m2nEAO4ZajxERAYTui3uA/edit?tab=t.0#heading=h.96r4cksn1gos>`_
 
 `Schacht, Kira. A web scraping toolkit for journalists,
@@ -69,11 +71,13 @@ and Abuse Act. Boston University Journal of Science & Technology Law.
 `Smith, Madolyn. APIs for journalism.
 Datajournalism.com <https://datajournalism.com/read/newsletters/apis-for-journalism>`_
 
-Sweigart, Al. "Web scraping", *Automate the boring stuff*, No starch press, 2nd ed, 2020, p. 267-300.
+Sweigart, Al. Web scraping. *Automate the boring stuff*, No starch press, 2nd ed, 2020, p. 267-300.
 
 `The Markup. Why web scraping is vital to democracy.
 2020 <https://gijn.org/2020/12/17/why-web-scraping-is-vital-to-democracy/>`_
 
 `Velotio. Scraping guidelines & best practices <https://www.velotio.com/engineering-blog/web-scraping-introduction-best-practices-caveats>`_
 
-`Whittaker, Zack. eb scraping is legal, US appeals court reaffirms, 2022 <https://techcrunch.com/2022/04/18/web-scraping-legal-court/>`_
+`Yin, Leon. Finding undocumented APIs <https://inspectelement.org/apis.html>`_
+
+`Whittaker, Zack. Web scraping is legal, US appeals court reaffirms, 2022 <https://techcrunch.com/2022/04/18/web-scraping-legal-court/>`_

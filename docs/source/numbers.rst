@@ -1,7 +1,7 @@
 Numbers & statistics
 ====================
 
-`BBC. Editorial guidelines: statistics. <https://www.bbc.com/editorialguidelines/guidance/reporting-statistics/>`_
+`BBC. Editorial guidelines: statistics. <https://www.bbc.com/editorialguidelines/guidance/reporting-statistics-and-data/>`_
 
 Bell, Andrew et al. *Making sense of data in the media*. SAGE, 2020. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912043576202420>`_
 
@@ -33,6 +33,8 @@ Cohn, Victor & Cope, Lewis. *News and numbers*. Wiley-Blackwell, 3rd ed., 2012
 Impartiality And Statistical Claims. Towards more independent scrutiny
 in news reporting. Journalism Practice, 11/2017, p. 1198-1215 <https://www.tandfonline.com/doi/full/10.1080/17512786.2016.1256789>`_
 
+Davies, Rob. How widespread is problem gambling? *Jackpot. How gambling conquered Britain*. Guardian Faber. 2022. p. 216-29.
+
 `Davies, William. How statistics lost their power. Guardian,
 2017 <https://www.theguardian.com/politics/2017/jan/19/crisis-of-statistics-big-data-democracy>`_
 
@@ -50,6 +52,8 @@ Hand, David J. *Dark Data. Why what you don't know matters*. Princeton, 2020. `L
 Harford, Tim. *How to make the world add up*. Bridge Street Press, 2020
 
 Harkness, Timandra. *Big data. Does size matter?* Bloomsbury, 2016. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911943454102420>`_
+
+`House of Commons. Statistical literacy guides. <https://commonslibrary.parliament.uk/training-and-events/the-good-information-toolkit/#heading-5>`_
 
 `Huff, Darrell. How to lie with statistics. Norton,
 1954 <http://faculty.neu.edu.cn/cc/zhangyf/papers/How-to-Lie-with-Statistics.pdf>`_
@@ -79,6 +83,9 @@ Video <https://www.youtube.com/watch?v=_qioPxHuk0U>`_
 .. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51112618970002420>`_
 
 `NCTJ. Reporting polls (online course). <https://skillsacademy.nctj.com/course/view.php?id=84>`_
+
+`Murtagh, Jack. How the Guinness Brewery Invented the Most Important Statistical Method in Science. 
+2024 <https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/>`_
 
 Nguyen, An (ed.). *News, numbers and public opinion in a data-driven world*. Bloomsbury, 2018. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51144864580002420>`_
 
@@ -116,4 +123,5 @@ Review of Books. 43/2, January
 2021 <https://www.lrb.co.uk/the-paper/v43/n02/paul-taylor/insanely-complicated-hopelessly-inadequate>`_
 
 Wheelan, Charles. *Naked statistics. Stripping the dread from the data*.
-Norton, 2013
+Norton, 2013. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1r4ug5q/alma9911042193402420>`_
+

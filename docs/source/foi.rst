@@ -99,6 +99,8 @@ Journalism.co.uk.
 
 `Rosenbaum, Martin. Freedom of information: a practical guidebook. 2023 <https://rosenbaum.org.uk/books/>`_
 
+`Stokel-Walker, Chris. New rules confirm public has a right to see how UK government uses AI. New Scientist. May 2026. <https://www.newscientist.com/article/2526397-new-rules-confirm-public-has-a-right-to-see-how-uk-government-uses-ai/>`_
+
 `TBIJ. Bureau launches action over hidden council finances. 2020 <https://www.thebureauinvestigates.com/stories/2020-10-22/bureau-launches-action-over-hidden-council-finances>`_
 
 `UCL. Chronology of FOI in the

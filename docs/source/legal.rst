@@ -21,7 +21,7 @@ drives of leaked files. Guardian.
 `Defence and Security Media Advisory (DSMA) Committee. Standing
 Notices <https://dsma.uk/standing-notices/>`_
 
-Harrison, Siân & Phillips, Gill. *McNae’s Essential Law for Journalists*. 27th ed., 2024. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912411170602420>`_ [Esp. Chapter 28, 'Data protection'].
+Harrison, Siân & Phillips, Gill. *McNae’s Essential Law for Journalists*. 28th ed., 2026. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912411170602420>`_ [Esp. Chapter 28, 'Data protection'].
 
 `Georgiev, Peter. A robot commits libel. Who is responsible?, RJI,
 2019 <https://www.rjionline.org/stories/a-robot-commits-libel-who-is-responsible?>`__
@@ -46,6 +46,8 @@ Snowden’s Permanent Record. London Review of Books. 41/18, Sept 2019 <https://
 
 Murray, Andrew. *Information technology law: the law and society*. 4th ed., OUP, 2019. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/f/3go6c4/44CAR_ALMA51176279860002420>`_
 
+Pagalo, Ugo et al. Anatomy of web data scraping: ethics, standards, and the troubles of the law, European Journal of Privacy Law & Technologies, Vol.2023 (2), 2024. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1dvsbt1/cdi_scopus_primary_2_s2_0_85185913744>`_
+
 `Pinto, Timothy. The rise of GDPR in media law. Taylor Wessing. 2019 <https://www.taylorwessing.com/interface/2019/privacy-theres-more-to-it-than-gdpr/the-rise-of-gdpr-in-media-law>`_
 
 `Pounder, Chris. DPDI No 2 Bill undermines transparency of Artificial Intelligence development and training. 2023 <https://amberhawk.typepad.com/amberhawk/2023/10/dpdi-no-2-bill-undermines-transparency-of-artificial-intelligence-development-and-training.html>`_
@@ -57,3 +59,4 @@ Roussev, L. 'The DPDI No.2 Bill: GDPR Revamp or Rule Tinkering?', *European data
 
 `Terziu & Yates. Data protection claims in media law cases: where are we now? Taylor Wessing, 2022 <https://www.taylorwessing.com/en/global-data-hub/2022/february---data-protection-freedom-of-expression-journalism-and-the-media/data-protection-claims-in-media-law-cases---where-are-we-now>`_
 
+Wacks, Raymond. *Privacy, a very short introduction*. Oxford, 2015, 2e ed. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911758882902420>`_

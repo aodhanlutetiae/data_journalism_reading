@@ -3,9 +3,6 @@ Storytelling with data
 
 `Bastien, Karen. Story angles from data. 2020. 1hr Video (in French) <https://www.youtube.com/watch?v=5sTNxNubuc4&t=130s>`_
 
-`Blinderman, Ilia. How to make dope shit: Part 3 Storytelling. The
-Pudding <https://pudding.cool/process/how-to-make-dope-shit-part-3/>`__
-
 `Bradshaw, Paul. Empathy as an investigative tool. Blogpost, 2020 <https://onlinejournalismblog.com/2020/02/19/empathy-investigative-journalism-story-ideas/>`__
 
 `Bradshaw, Paul. It’s not all about numbers: six ways data can give you
@@ -26,7 +23,7 @@ tipsheets <https://drive.google.com/drive/folders/1FOLQKiQdVX2Wr5Z2YXw5beI6S9ECA
 Paulos, John Allen. *Once upon a number: The hidden mathematical logic
 of stories*. Penguin, 1998
 
-`Pudding. Essays & blogposts <https://pudding.cool/resources/>`_
+`Pudding. Essays & blogposts (esp. Storytelling post) <https://pudding.cool/resources/>`_
 
 Storr, Will. *The science of storytelling*. William Collins, 2019
 
