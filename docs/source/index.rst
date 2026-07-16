@@ -9,11 +9,11 @@ Contents
 
 .. toctree::
 
-   ai
    basics
    digisec
    ethics
    foi
+   genai
    journalism
    legal
    mapping
