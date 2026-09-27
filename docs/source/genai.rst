@@ -5,7 +5,7 @@ Bartlett, Jamie. How to talk to AI. 2026. `Library resource <https://librarysear
 
 `Bhatia, Aatish. Watch an AI learn to write by reading nothing but Jane Austen, NY Times, 2023 <https://www.nytimes.com/interactive/2023/04/26/upshot/gpt-from-scratch.html>`_
 
-`Bradshaw, Paul. Teaching journalism students chatgpt and generative AI. 2023 <https://onlinejournalismblog.com/2023/07/03/this-is-how-ill-be-teaching-journalism-students-chatgpt-and-generative-ai-next-semester/>`_ & `video talk <https://www.youtube.com/watch?v=qGNAlnTbaDo>`_ 
+.. `Bradshaw, Paul. Teaching journalism students ChatGPT and generative AI. 2023 <https://onlinejournalismblog.com/2023/07/03/this-is-how-ill-be-teaching-journalism-students-chatgpt-and-generative-ai-next-semester/>`_ & `video talk <https://www.youtube.com/watch?v=qGNAlnTbaDo>`_ 
 
 `Clarke, Sean et al. How AI chatbots like ChatGPT or Bard work: visual explainer. Guardian, 2023 <https://www.theguardian.com/technology/ng-interactive/2023/nov/01/how-ai-chatbots-like-chatgpt-or-bard-work-visual-explainer>`_ 
 
