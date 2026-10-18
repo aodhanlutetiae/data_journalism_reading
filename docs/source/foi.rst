@@ -88,6 +88,8 @@ Miller, Claire
 
 Morrison, James. Freedom of Information. *Essential public affairs for journalists (7th ed.)*. OUP, 2021, p. 436-52. `Library resource (6th ed.) <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911846722102420>`_
 
+`MySociety. Buried with Michael Sheeen: how FOI helped uncover a toxic waste scandal. 2026. <https://www.mysociety.org/2026/09/01/buried-with-michael-sheen-how-foi-helped-uncover-a-toxic-waste-scandal/>`_
+
 `Open Democracy. Freedom of Information (article series) <https://www.opendemocracy.net/search/?query=FOI>`_
 
 `Reid, Alastair. Ten years of FOI. Resources and tips for journalists.
