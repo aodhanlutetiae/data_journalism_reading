@@ -27,6 +27,8 @@ Dubberly, Sam, Koenig, Alexa & Murray, Daragh. *Digital Witness. Using Open Sour
 
 `Edwards, Maxim. Open-source journalism in a wired world. Nieman report, 2022 <https://niemanreports.org/articles/open-source-journalism/>`_
 
+`Escritt, Thomas. Journalists used AI to trace German far-left militant well before police pounced. <https://www.reuters.com/world/europe/journalists-used-ai-trace-german-far-left-militant-well-before-police-pounced-2024-02-29>`_
+
 Hahn, Oliver & Stalph, Florian Hahn, Oliver. *Digital investigative journalism: data, visual analytics and innovative methodologies in international reporting*.
 Palgrave Macmillan, 2018. `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911682114502420>`_
 

@@ -35,8 +35,8 @@ Journalists*. Routledge, 2015. `Library resource <https://librarysearch.cardiff.
 — `FOIA. 103 stories that prove Chris Grayling
 wrong. Guardian, 2015 <https://www.theguardian.com/media/2015/oct/30/freedom-of-information-act-chris-grayling-misuse-foi>`_
 
-— `Some of the best stories based on FOI requests in
-2017 <https://www.foi.directory/some-of-the-best-stories-based-on-foi-requests-in-2017/>`_
+.. — `Some of the best stories based on FOI requests in
+.. 2017 <https://www.foi.directory/some-of-the-best-stories-based-on-foi-requests-in-2017/>`_
 
 `Campaign for Freedom of Information <https://www.cfoi.org.uk/>`_
 
@@ -54,6 +54,8 @@ Institute. 2019. 40' Video <https://www.youtube.com/watch?v=pP6pHg-CWC4>`_
 
 `Goldberg, Kevin. FOI resources. GIJN.
 2019 <https://drive.google.com/file/d/1VG1p1P0diz89ea64yll-GAo9mXesXCxH/view>`_
+
+`Greenwood, George. Relight my FOI. <https://relightmyfoia.blog/>`_
 
 Harris, Kelly, Metcalfe, Eric & Wadham, John. *Blackstone’s guide to the
 Freedom of Information Act 2000*. 5th ed., OUP, 2013. `Library resource <Blackstone’s guide to the Freedom of Information Act 2000>`_
@@ -81,6 +83,8 @@ information <https://www.legalleaks.info/wp-content/uploads/2018/06/Legal_Leaks_
 2019 <https://drive.google.com/file/d/1D41ZBiOPWLR9_8E7G-5lugLFJg3BQdJ4/view>`_
 
 Miller, Claire 
+
+- `Blog: FOI Friday. <https://clairemiller.net/tag/foifriday/>`_
 
 - `A great big list of FOI ideas. 2013 <http://clairemiller.net/blog/2013/01/a-great-big-list-of-foi-ideas/>`_
 
