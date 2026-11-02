@@ -16,6 +16,8 @@ Hao, Karen. Empire of AI: inside the reckless race for total domination. 2026. `
 
 `Meyer, Erie & Harris Zachary. Made in America, Hidden by AI: AI Shopping Chatbots Reveal How Amazon and Walmart Hurt American Manufacturers and Deceive Shoppers, 2026. <https://scholarship.law.columbia.edu/law_economy/9/>`_
 
+`Burn-Murdoch, John & Murray, Clara. The AI Shift: How is AI changing the way FT data reporters work?. FT. 2026 <https://www.ft.com/content/1cc2516d-b718-4e2c-a3b2-1f8bd8acce01?syn-25a6b1a6=1>`_
+
 `Murgia, Madhumita. Generative AI exists because of the transformer. This is how it works. 2023. <https://ig.ft.com/generative-ai/>`_
 
 Narayanan, Arvind, & Kapoor, Sayash. AI snake oil: what artificial intelligence can do, what it can't, and how to tell the difference. 2024. `Library resource

@@ -43,7 +43,9 @@ Frost, Adam et al. *Communicating with data visualisation: a practical guide*. S
 `House of Commons. Library guide to designing effective
 charts <https://researchbriefings.files.parliament.uk/documents/SN05073/SN05073.pdf>`_
 
-Kirk, Andy. *Data visualisation: a handbook for data driven design*. SAGE, 2019 (2nd ed.) `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/c1t5b/alma9911831176702420>`_
+`Jones, Ben. 2019. Avoiding data pitfalls : how to steer clear of common blunders when working with data and presenting analysis and visualizations <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1g7j5sa/alma9911773030202420>`_
+
+Kirk, Andy. *Data visualisation: a handbook for data driven design*. SAGE, 2019 (2nd ed.) `Library resource <https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/ouid0o/alma9911513763702420>`_
 
 `Knight Center. Module 5. Visualising. Data journalism and
 visualisation with free tools. Online course.
